@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\bin\Debug\netcoreapp3.1\BTCCalculator.exe
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\obj\Debug\netcoreapp3.1\BTCCalculator.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\obj\Debug\netcoreapp3.1\BTCCalculator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\obj\Debug\netcoreapp3.1\BTCCalculator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\bin\Debug\netcoreapp3.1\BTCCalculator.deps.json
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\bin\Debug\netcoreapp3.1\BTCCalculator.runtimeconfig.json
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\bin\Debug\netcoreapp3.1\BTCCalculator.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\bin\Debug\netcoreapp3.1\BTCCalculator.dll
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\bin\Debug\netcoreapp3.1\BTCCalculator.pdb
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\obj\Debug\netcoreapp3.1\BTCCalculator.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\obj\Debug\netcoreapp3.1\BTCCalculator.csproj.CopyComplete
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\obj\Debug\netcoreapp3.1\BTCCalculator.dll
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\obj\Debug\netcoreapp3.1\BTCCalculator.pdb
+C:\Users\opilane\source\repos\BTCCalculator\BTCCalculator\obj\Debug\netcoreapp3.1\BTCCalculator.genruntimeconfig.cache

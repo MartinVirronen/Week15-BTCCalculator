@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/RmoFqunGT4/4DAx7RQWddjcG4L0JMsYJFxLRyPhwZiPF7xRmHnd6bE/15h5LWBvFhCd9kFAcwcoafBk3tRjhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\BTCCalculator\\BTCCalculator\\BTCCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
